@@ -9,11 +9,11 @@ Mensuration is a division of mathematics that studies geometric figure calculati
 
 | Folder              | Discription                                   |
 |---------------------|-----------------------------------------------|
-| `1_Requirements`    | Documents detailing requirements and research |
-| `2_Design`          | Documents specifying design details           |
-| `3_Implementation`  | All code and documentation                    |
-| `4_Test_plan`       | Documents with test plans and procedures      |
-| `6_ImagesAndVideos` | Project images and videos                     |
+| `1Requirements`    | Documents detailing requirements and research |
+| `Design`          | Documents specifying design details           |
+| `Implementation`  | All code and documentation                    |
+| `Testplan`       | Documents with test plans and procedures      |
+| `media` | Project images and videos                     |
 
 <!-- problems faced and their solutions -->
 ## Challenges Faced and How Was It Overcome
