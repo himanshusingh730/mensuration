@@ -8,7 +8,3 @@
 ### Activity Diagram:
 ![activity diagram](../media/activity_diagram.png)
 
-## Low Level Design 
-
-### State Diagram:
-![state diagram](../media/state_diagram.png)
